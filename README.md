@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chinedu Emenike
-- 👀 I’m interested in front-end dev
+- 👀 I’m interested in front-end web development, html css javascript
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on building web app
+- 💞️ I’m looking to collaborate on building and deploying awesome websites
 - 📫 How to reach me @guzmanny007 on twitter
 
 <!---
