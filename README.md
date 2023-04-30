@@ -7,11 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/deguztech" target="blank"><img src="https://img.shields.io/twitter/follow/deguztech?logo=twitter&style=for-the-badge" alt="deguztech" /></a> </p>
 
-- 🔭 I’m currently working on **Charity fund website**
+- 🔭 I’m currently working on **Peni UI and building my react skill**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript and react js**
 
-- 📫 How to reach me **dominicdeguzman7@gmail.com**
+- 📫 How to reach me **dominicdeguzman7@gmail.com 
+- deguztech@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
